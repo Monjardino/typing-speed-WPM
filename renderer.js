@@ -64,7 +64,7 @@ words = {
 63 : "decide",
 64 : "death",
 65 : "develop",
-66 : "detail",
+66 : "detail"
 }
 
 var actual_word = "";
