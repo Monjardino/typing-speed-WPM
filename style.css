@@ -5,3 +5,19 @@
     height: 100%;
     overflow: hidden;
 }
+
+#start30{
+  border-color: rgb(0, 0, 0);
+  border-radius: 0.5px 0.5px 0.5px 0.5px;
+  width: 30px;
+  height: 25px;
+  background-color: rgb(149, 138, 138);
+  font-family: "Segoe UI";
+  color: white;
+  position: absolute;
+  margin-top: 45%;
+}
+
+body {
+  background-image: url(background.jpeg);
+}
